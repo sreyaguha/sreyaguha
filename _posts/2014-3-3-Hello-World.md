@@ -10,7 +10,7 @@ The future lies before you,<br/>
 like a field of fallen snow;<br/>
 Be careful how<br/>
 you tread it;<br/>
-for evry step<br/>
+for every step<br/>
 will show.
 
 
