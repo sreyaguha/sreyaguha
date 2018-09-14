@@ -3,6 +3,21 @@ layout: post
 title: This is Sreya's Blog!
 ---
 
+
+# Favourite quote : 
+
+The future lies before you,
+like a field of fallen snow;
+Be careful how
+you tread it;
+for evry step
+will show.
+
+
+
+
+
+
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
