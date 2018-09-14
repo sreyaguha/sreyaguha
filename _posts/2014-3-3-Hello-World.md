@@ -4,13 +4,13 @@ title: This is Sreya's Blog!
 ---
 
 
-# Favourite quote : 
+## Favourite quote : 
 
-The future lies before you,
-like a field of fallen snow;
-Be careful how
-you tread it;
-for evry step
+The future lies before you,<br/>
+like a field of fallen snow;<br/>
+Be careful how<br/>
+you tread it;<br/>
+for evry step<br/>
 will show.
 
 
@@ -18,8 +18,3 @@ will show.
 
 
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
